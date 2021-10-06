@@ -1,2 +1,2 @@
 # Knows
-all kinds of knowledge that java engineer maybe need
+Knowledge required by a java engineer
